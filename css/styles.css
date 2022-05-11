@@ -1,19 +1,24 @@
 body{
-  background-color: #EFEAD8;
+  background-color: #C4DDFF;
+  font-family: "Noto Sans", sans-serif;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: #D0C9C0;
+  border-color: #7FB5FF;
   border-width: 10px;
   width: 10%;
 }
 
 h1 {
-  color: #6D8B74;
+  color: #7FB5FF;
 }
 
 h2 {
-  color: #6D8B74;
+  color: #7FB5FF;
+}
+
+img{
+  border-radius: 50%;
 }
